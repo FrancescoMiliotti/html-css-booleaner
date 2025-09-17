@@ -42,3 +42,13 @@ address{
     margin-top: 0;
 }
 
+figcaption{
+    font-size: 15px;
+}
+
+ul{
+    text-align: left;
+    margin-left: 0;
+    padding-left: 0;
+}
+
