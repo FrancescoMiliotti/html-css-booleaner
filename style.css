@@ -6,9 +6,39 @@ header {
     height: 115px;
     background-image: url(./img/pattern.png);
     background-color: rgb(79, 161, 255);
-    background-size: 18%;
+    background-size: 35%;
 }
 
 #logo{ 
     color: white;
+    height: 50%;
+    margin-top: 50px;
+    margin-left: 50px;
+    
 }
+
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+main{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+h1{margin-bottom: 0;}
+
+address{
+    margin-top: 0;
+    font-style: normal;
+    font-size: 20px;
+    color: grey;
+}
+
+#data{
+    font-size: 15px ;
+    color: grey;
+    margin-top: 0;
+}
+
