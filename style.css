@@ -1,3 +1,14 @@
 body {
-    background-color: blue;
+    margin: 0  ;
+}
+
+header {
+    height: 115px;
+    background-image: url(./img/pattern.png);
+    background-color: rgb(79, 161, 255);
+    background-size: 18%;
+}
+
+#logo{ 
+    color: white;
 }
